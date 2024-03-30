@@ -35,8 +35,8 @@
 <!-- Contact -->
 <h2 align="center">Contact</h2>
 <p align="center">
-  📧 Email: [Your Email Address]<br>
-  🔗 LinkedIn: [Your LinkedIn Profile]
+  📧 Email: robert11122ph@gmail.com<br>
+  🔗 LinkedIn: https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frobert-flores-98973a2ab%3Ffbclid%3DIwAR0QqSxWjW0c_TfO83LfI8mRsE_WjIukftVL5-YhFCp8DtyCyalYBPSSTVI_aem_AQJ9vW78tmL7H9rcaXZFCY6LbkmU9Cve3VurSxqGpLqGPkWkteV1b6KEQLFhBJAiSefBAQcoVBSuuC27Tmo5TGfx&h=AT3yT1xPWLMfdDcZ-7TDvLfWTqSDPIwsRMUQsqq58X0lIhCWsNETBZXz1Si3fAWN4hkdwO9x4d6WP2HgO3MvM2u6xJBDx08xOM4LAamaaf4mdXK9IvgJC4ZjubYveMxA7XlOww
 </p>
 
 <!-- Footer -->
